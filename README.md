@@ -1,4 +1,4 @@
-# project-setup-python
+# Python Project Starter
 
 templates used to get started on coding exercises when candidates are stuck
 
